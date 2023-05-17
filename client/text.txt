@@ -1,0 +1,9 @@
+site:
+https://www.booking.com/searchresults.en-gb.html?aid=309654;label=booking-be-en-emea-cr5fiGZemxjhmq6JhtbtFwS416818475941%3Apl%3Ata%3Ap1%3Ap22%2C563%2C000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-13273066%3Alp1007978%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcsZ-Id2vkzIfTmYhvC5HOg;sid=c89fd9468d6e978ea6f0dd2f90d2b186;dest_id=-781545;dest_type=city&
+
+
+
+installation
+
+npm install chart.js --save
+
